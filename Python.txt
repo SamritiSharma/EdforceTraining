@@ -1,0 +1,37 @@
+Python
+ 
+what is mutithreading in python.
+ What is the difference in decorator and iterator.
+ create decorator and use decorator.
+ how data correction done in pandas.
+ how to read a large file and upload , if fails uploading should resume.
+ how to read a file content.
+ how to filter specific logs from log file and groupby using pandas.
+ what is concat , merge and join in pandas.
+ what method resolution ordering.
+ OOPs inheritance type.
+ how we integrate mongo db.
+ what is shallow and deep copy.
+ loc and iloc.
+ 
+Java/Spring/Angular/DB/AWS
+ 
+Primitive data type and objects assignment in memory.
+ Can we create object of abstract class.
+ What is collection fremwork and what are the different classes and interfaces we have.
+ Can we do method overriding and overloading in same class.
+ method overloading working.
+ shallow and deep copy.
+ wait,sleep,notify workings.
+ spring IOC.
+ @autowiring internal working.
+ beans scope.
+ @transaction internal working. 
+ proxy design pattern.
+ load balancer.
+ program to find missing number.
+ what is procedure.
+ AWS main services.
+ What is pass by value and pass by reference.
+ If one api working fine but after sometime its very slow. how to improve the performance.
+ 
