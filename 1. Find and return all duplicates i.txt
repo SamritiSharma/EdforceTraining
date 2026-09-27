@@ -1,0 +1,44 @@
+1. Find and return all duplicates in an array
+2. Heap dump or thread dump commands
+3.analyse heap dump using actuator
+4.Covariant return types
+5. Print 1 to 100 without using numbers
+6.dynamic filters in JPA
+7.count no of vowels in each string
+8. Static nested class
+9. @conditional
+10. Multiple DB configuration
+11 ThrottlingQueue
+12.Reverse each word in a sentence
+13.Critera Query
+14. what is default thread pool and how to manage
+15. Move all 1s in a arrya having 0 and1 to starting.
+16.Graphql
+17. Grpc
+18 Redis
+20 Db selection
+21.example of flatmap
+22.Staxk program to find next greater element of each element.
+23.ELK With Ms
+24.@ParamterizedTest
+25.Future vs completelableFuture
+26 how to make streams thread safe
+27.Custom validation class in Boot.
+28.Create deep copy/various deep copy techniques in java
+29.@refreshScope
+30.Static and dynamic class loading
+31.get vs load Hibernate
+32.one to many example
+33.Spring Interceptors
+34.Spring Batch(Job/Step/Reader/Writer)
+35.Caching
+36.Call stored Procedure from Boot application.
+37.paraller stream example
+38. yield() vs join()
+39.named query vs native query
+40.Diff ways to create objection
+41.Micrometer/Actuator
+42.ELK
+43. 12 factor Ms
+44. Saga pattern
+45.
